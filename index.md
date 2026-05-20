@@ -1,3 +1,6 @@
----
-title: Welcome to my blog!
----
+------------------
+title: text page
+
+
+*Test publication*
+-------------------
